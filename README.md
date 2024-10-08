@@ -10,3 +10,7 @@ https://oj.vnoi.info/organization/datmacoder
 ##### Top
 
 <img src="https://i.imgur.com/kogQGJC.png">
+
+##### First AC
+
+<img src="https://i.imgur.com/giibFcd.png">
