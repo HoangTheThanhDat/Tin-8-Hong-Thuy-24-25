@@ -3,4 +3,4 @@ https://oj.vnoi.info/organization/datmacoder
 
 ### Các nhóm rating
 
-<img src="https://imgur.com/gallery/rating-1-kcFCAXV">
+<img src="https://i.imgur.com/pu2rkz0.png">
