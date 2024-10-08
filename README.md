@@ -24,6 +24,9 @@ https://oj.vnoi.info/organization/datmacoder
 Từ tổng của ba rating Top, First AC và Điểm, tạm gọi tổng là **S**, rating nhận được là như sau:
 
 **Div 1** : Rating nhận được là **S x 1,25**
+
 **Div 2** : Rating nhận được là **S x 1,00**
+
 **Div 3** : Rating nhận được là **S x 0,85**
+
 **Div 4** : Rating nhận được là **S x 0,70**
