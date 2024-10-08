@@ -4,3 +4,9 @@ https://oj.vnoi.info/organization/datmacoder
 ### Các nhóm rating
 
 <img src="https://i.imgur.com/pu2rkz0.png">
+
+### Cách tính rating
+
+##### Top
+
+<img src="https://i.imgur.com/kogQGJC.png">
